@@ -1,0 +1,5 @@
+.idea
+venv
+.env
+puzzles.csv.gz
+words_info.csv.gz
